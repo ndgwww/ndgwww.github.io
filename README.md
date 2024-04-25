@@ -1,6 +1,8 @@
 ### 我的博客
 
-地址：[http://qiankunli.github.io](http://qiankunli.github.io "")
+地址：[http://ndgwww.github.io]("http://ndgwww.github.io")
+
+原作者：[http://qiankunli.github.io]("http://qiankunli.github.io")
 
 ### 安装说明
 

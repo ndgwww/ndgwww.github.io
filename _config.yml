@@ -9,12 +9,12 @@ author:
   email: qiankun.li@qq.com
   link: 
   weibo: 
-  github: http://qiankunli.github.io
+  github: http://ndgwww.github.io
 
 # 站点信息
 title: 李乾坤的博客 
 description: 李乾坤的博客
-url: http://qiankunli.github.io
+url: http://ndgwww.github.io
 rss_url: 
 
 # gavatar头像及Favicon
@@ -29,7 +29,7 @@ ga:
 
 # disqus 设置
 disqus:
-  shortname: qiankunli
+  shortname: ndgwww
 
 # gitment
 gitment:
